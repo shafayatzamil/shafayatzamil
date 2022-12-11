@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Saifur rahman Tanvir 🔥</h1>
+<h1>Hi there, I'm shafayat zamil 🔥</h1>
 
 <br />
 
@@ -59,4 +59,4 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 **Feel free to contact me at hello.tanvir.official@gmail.com.\
 Thanks for visiting 😉**
 
-**Saifur rahman Tanvir**
+**shafayat zamil**
