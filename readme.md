@@ -2,7 +2,7 @@
 
 <br />
 
-![Tanvir's GitHub stats](https://github.com/saifurrahmantanvir/saifurrahmantanvir/blob/main/background.png)
+
 
 I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.js`, `Redux`, `Node.js`, `Express`, and `MonogoDB`. With extensive knowledge in `frontend` as well as in `backend` development, I develop an application in a way that can be maintained and scaled with less effort 💥💥.
 
