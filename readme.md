@@ -17,7 +17,7 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 
 <h2>Github stats & languages 📈</h2>
 
-[![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifurrahmantanvir&hide=contribs,prs&theme=apprentice)](https://github.com/saifurrahmantanvir)
+[![shafayat zamil GitHub stats](https://github-readme-stats.vercel.app/api?username=saifurrahmantanvir&hide=contribs,prs&theme=apprentice)](https://github.com/saifurrahmantanvir)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurrahmantanvir&layout=compact&theme=apprentice)](https://github.com/saifurrahmantanvir)
 
@@ -56,7 +56,7 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 
 <br /><br />
 
-**Feel free to contact me at hello.tanvir.official@gmail.com.\
+**Feel free to contact me at zamilkhan111.za@gmail.com\
 Thanks for visiting 😉**
 
 **shafayat zamil**
