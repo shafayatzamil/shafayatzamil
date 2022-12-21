@@ -8,10 +8,10 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 
 <h2>Find me on social sites 📌</h2>
 
-📙 [PORTFOLIO](https://portfolio-rahman.netlify.app)
-📙 [LINKEDIN](https://linkedin.com/in/saifurrahmantanvir)
-📙 [INSTAGRAM](https://instagram.com/tanvirrahman.dev)
-📙 [TWITTER](https://twitter.com/tanvirrahmandev)
+📙 [PORTFOLIO](https://moonlit-clafoutis-a9832b.netlify.app/)
+📙 [LINKEDIN](https://www.linkedin.com/in/shafayatzamil03/)
+📙 [INSTAGRAM]()
+📙 [TWITTER]()
 
 <br />
 
